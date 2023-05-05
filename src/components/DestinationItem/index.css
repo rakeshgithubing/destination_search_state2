@@ -1,0 +1,19 @@
+/* Write your CSS here */
+
+.item-container {
+  height: 220px;
+  width: 200px;
+  margin-bottom: 10px;
+  margin-right: 20px;
+  list-style-type: none;
+}
+.item-image {
+  width: 200px;
+  height: 150px;
+}
+.item-paragraph {
+  color: #000000;
+  font-family: 'Open Sans';
+  font-size: 16px;
+  font-weight: bold;
+}
